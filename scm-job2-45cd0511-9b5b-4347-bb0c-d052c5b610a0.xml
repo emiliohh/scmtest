@@ -9,7 +9,7 @@
     <scheduleEnabled>true</scheduleEnabled>
     <sequence keepgoing='false' strategy='node-first'>
       <command>
-        <exec>uname-a</exec>
+        <exec>uname -a</exec>
       </command>
     </sequence>
     <uuid>45cd0511-9b5b-4347-bb0c-d052c5b610a0</uuid>
