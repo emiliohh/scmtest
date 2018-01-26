@@ -1,0 +1,17 @@
+<joblist>
+  <job>
+    <description></description>
+    <executionEnabled>true</executionEnabled>
+    <id>e970ad24-33d7-49e2-887f-fa076db07321</id>
+    <loglevel>INFO</loglevel>
+    <name>scm-job5</name>
+    <nodeFilterEditable>false</nodeFilterEditable>
+    <scheduleEnabled>true</scheduleEnabled>
+    <sequence keepgoing='false' strategy='node-first'>
+      <command>
+        <exec>uname</exec>
+      </command>
+    </sequence>
+    <uuid>e970ad24-33d7-49e2-887f-fa076db07321</uuid>
+  </job>
+</joblist>
